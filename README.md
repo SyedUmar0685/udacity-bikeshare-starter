@@ -1,11 +1,9 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+## Bikeshare Starter Project
 
+This is the bikeshare starter project from Udacity that I complete as part of the Introduction to Version Control course on 24 Feb 2026.
 
-# Project Title
-
-Describe what your project is about and what it does
-
-## Information about how to use your project
+The bikeshare starter project consists of a single Python file (bikeshare_starter.py) 
+that apparently pulls out information from one or more comma-separated value files and analyzes the data according to city, month, and day supplied interactively by the user.
 
 This could include:
 
