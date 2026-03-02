@@ -22,7 +22,7 @@ This is mainly for the documentation changes
 - Initial commit: This change is mainly to update the README.me file. Updated the README.me file to provide information about the Bikeshare projects
 - This is the 1st update of README.me file. In this change I have added the clone project command and license information for my git repo
 - This is the 2st update of README.me file. In this change I have updated the clone project information.Clone project information which I added in last commit was wrong so I corrected this
-- This is the 2rd update of README.me file. In this change I have updated the Contribution and Change history details.
+- This is the 3rd update of README.me file. In this change I have updated the Contribution and Change history details.
 
 ## License
 Original this repository is copied from Udacity for the training purpose. Additionally I have added the bikeshare_starter.py files as a part of training task.
