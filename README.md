@@ -6,7 +6,7 @@ The bikeshare starter project consists of a single Python file (bikeshare_starte
 that apparently pulls out information from one or more comma-separated value files and analyzes the data according to city, month, and day supplied interactively by the user.
 
 Clone the project using below command
-- git clone https://github.com/SyedUmar0685/udacity-bikeshare-starter.git
+- git clone https://github.com/SyedUmar0685/udacity-bikeshare-starter_rework.git
 
 ## Contribution guidelines
 
