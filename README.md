@@ -8,13 +8,21 @@ that apparently pulls out information from one or more comma-separated value fil
 Clone the project using below command
 - git clone https://github.com/SyedUmar0685/udacity-bikeshare-starter_rework.git
 
-## Contribution guidelines
+## Programming language
+- python is the only one language file added to the git repository
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+## Contribution
+- Feel free to copy and read the python file
+- Please don't do any changes
+- This repositorys for training purpose. I created my trainign project
+- Udacity team is free to add changes
 
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Change history
+This is mainly for the documentation changes
+- Initial commit: This change is mainly to update the README.me file. Updated the README.me file to provide information about the Bikeshare projects
+- This is the 1st update of README.me file. In this change I have added the clone project command and license information for my git repo
+- This is the 2st update of README.me file. In this change I have updated the clone project information.Clone project information which I added in last commit was wrong so I corrected this
+- This is the 2rd update of README.me file. In this change I have updated the Contribution and Change history details.
 
 ## License
 Original this repository is copied from Udacity for the training purpose. Additionally I have added the bikeshare_starter.py files as a part of training task.
