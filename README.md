@@ -5,12 +5,8 @@ This is the bikeshare starter project from Udacity that I complete as part of th
 The bikeshare starter project consists of a single Python file (bikeshare_starter.py) 
 that apparently pulls out information from one or more comma-separated value files and analyzes the data according to city, month, and day supplied interactively by the user.
 
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+Clone the project using below command
+- git clone https://github.com/SyedUmar0685/udacity-bikeshare-starter.git
 
 ## Contribution guidelines
 
@@ -20,6 +16,9 @@ If you welcome contributions, provide guidelines on how others can contribute to
 
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-## Date created
-
-Include the date you created this project and README file.
+## License
+Original this repository is copied from Udacity for the training purpose. Additionally I have added the bikeshare_starter.py files as a part of training task.
+'You are free to:'
+	**Share** — copy and redistribute the material in any medium or format
+	**Adapt** — remix, transform, and build upon the material
+The licensor cannot revoke these freedoms as long as you follow the license terms.
